@@ -1,2 +1,2 @@
 # Disney-Hotstar-Clone-
-made using not HTML,JS AND CSS
+made using only HTML,JS AND CSS
